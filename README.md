@@ -1,3 +1,35 @@
+# Week 6 Hackathon - Plateful Of Pleasure
+
+At the end of Week 6, Sam and I were joined by Bidhan to create a React App that retrieved data from an API. 
+
+### Step 1 - API
+We were given a list of potential APIs and had to choose one.
+After some time, we settled on a Recipe API (https://www.themealdb.com/api/json/v1/1/random.php).
+We checked the console for how the data was structured and managed to get the data to appear in the console, so we were happy to move on to the next step.
+
+### Step 2 - Planning
+We spent some time ideating using a JamBoard - we used the Disney ideation method and spend a few minutes in each room.
+We created a rough plan for our MVP and spent some time drawing our component tree in drawio on VSCode.
+
+### Step 3 - MVP
+We took it in turns to share screens and worked on the code base together. After initialising create-react-app, we worked our way down from the top (app.js), planning as we went.
+We managed to get the MVP of our app working by 15:00 and talked about our next steps.
+We wanted to add some functionality to the app, so you could click on the recipe itself and expand the view so it showed the full details from the API.
+We decided, however, to focus on the CSS of the app. A logo was added and we spent some time working out the layout using Flexbox. In hindsight, I think CSS Grid would have been a better solution here.
+
+### Step 4 - Retro/presentation
+At the end of the day, we had a few minutes to share our app and discuss the day.
+My main take-aways:
+    - I'm happy we spent the time checking on the API to make sure we could access the data.
+    - I felt we worked as a team well. It had just been Sam and I for the week, so adding a third on Friday changed the dynamic, but allowed both Sam and myself to slow down and work through the problems at a steady pace. This definitely helped us stay on track and make fewer errors.
+    - I'd like to try to add the functionality to the app so the recipe is displayed on click.
+    - We didn't write any tests for this app 
+      - I'd like to have a think about how to test the different functions.
+
+
+____
+## INFO FROM SCHOOL OF CODE
+
 # React-athon
 
 ## Task 1 - API Research (20 - 30 mins) ✅
