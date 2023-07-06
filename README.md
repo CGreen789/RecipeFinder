@@ -1,6 +1,6 @@
 # Week 6 Hackathon - Plateful Of Pleasure
 
-At the end of Week 6, Sam and I were joined by Bidhan to create a React App that retrieved data from an API. 
+At the end of Week 6, Sam and I were joined by Bidhan to create a React App that retrieved data from an API. You can view the site [here](https://platefulofpleasure.netlify.app/)
 
 ### Step 1 - API
 We were given a list of potential APIs and had to choose one.
